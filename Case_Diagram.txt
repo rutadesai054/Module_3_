@@ -1,0 +1,4 @@
+6. What is Use case Diagram? Create a use-case on bill payment on paytm.
+answer:-
+
+Use case diagrams:- describe the high-level functions and scope of a system. These diagrams also identify the interactions between the system and its actors. The use cases and actors in use-case diagrams describe what the system does and how the actors use it, but not how the system operates internally.

@@ -1,0 +1,62 @@
+3. What is SDLC? Explain each phase of SDLC
+answer:-
+
+SDLC (software development life cycle):- is a big-picture breakdown of all the steps involved in software creation (planning, coding, testing, deploying, etc.). Companies define custom SDLCs to create a predictable, iterative framework that guides the team through all major stages of development.
+
+
+Phase of SDLC (Software Development Life Cycle)
+>> PHASE 1
+Requirements Analysis
+
+~ Purpose: Create an overview of the project, determine requirements, and set the product groundwork
+~ Key personnel: Business analysts
+~ Output: An SRS document that defines project goals and needs
+
+
+>> PHASE 2
+Feasibility Study
+
+~ Purpose: Evaluate whether the requirements analysis aligns with business goals and resources 
+~ Key personnel: Team leads and higher management
+~ Output: An expanded SRS document approved by a decision-maker
+
+
+>> PHASE 3
+Design Plan
+
+~ Purpose:  Design the upcoming product (architecture, Ul, features, security measures, etc.) 
+~ Key personnel: Architects and senior developers
+~ Output: A detailed DDS document that explains how to code the product
+
+
+>> PHASE 4
+Software Development
+
+~ Purpose: Translate the system design into source code and build the first version of the product 
+~ Key personnel: Developers
+~ Output: Testable, fully functional software
+
+
+>> PHASE 5
+In-Depth Software Testing
+
+~ Purpose: Ensure the product has no bugs or exploits and that it is in line with DDS expectations 
+~ Key personnel: All levels of testers
+~ Output: A thoroughly tested version of the product
+
+
+>> PHASE 6
+Software Deployment
+
+~ Purpose: Push the new product into production by gradually phasing it into use 
+~ Key personnel: Deployment engineers 
+~ Output: The release of a fully functional and tested product
+
+
+>> PHASE 7
+Maintenance and Enhancement
+
+~ Purpose: Keep the product safe and at optimal performance, plus occasionally add new features
+~ Key personnel: Production support engineers, testers, and developers 
+~ Output: A fully monitored product that's continuously seeing improvements
+ 

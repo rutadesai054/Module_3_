@@ -1,0 +1,21 @@
+1. What is software? What is software engineering? 
+answer:-
+
+~ The term software engineering is the product of two words, software, and engineering.
+
+>> software
+
+~ The software is a collection of integrated programs.
+
+~ Software subsists of carefully-organized instructions and code written by developers on any of various particular computer languages.
+
+~ Computer programs and related documentation such as requirements, design models and user manuals.
+
+>> Engineering
+
+~ Engineering is the application of scientific and practical knowledge to invent, design, build, maintain, and improve frameworks,     
+processes, etc.
+
+>> Software engineering
+
+~ Software Engineering is an engineering branch related to the evolution of software product using well-defined scientific principles, techniques, and procedures. The result of software engineering is an effective and reliable software product.
